@@ -7,8 +7,8 @@ int enB = 3;
 int in3 = 5;
 int in4 = 4;
 
-const int trigPin = 9;
-const int echoPin = 10;
+const int trigPin = 10;
+const int echoPin = 11;
 long duration;
 int distance;
 
